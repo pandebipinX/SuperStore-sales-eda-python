@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Ship_Date,Customer_Name,Segment,Region,Category,Sub_Category,Sales,Quantity,Discount,Profit
+CA-202402-1000,2024-02-16,2024-02-21,Mary Johnson,Consumer,South,Technology,Machines,1573.98,10,0.0,314.8
+CA-202402-1001,2024-02-10,2024-02-14,Robert Brown,Corporate,South,Technology,Machines,597.78,8,0.1,89.67
+CA-202402-1002,2024-02-18,2024-02-22,Linda Davis,Consumer,South,Office Supplies,Art,513.26,3,0.1,76.99
+CA-202402-1003,2024-02-04,2024-02-06,Linda Davis,Corporate,South,Technology,Phones,1411.93,10,0.3,70.6
+CA-202402-1004,2024-02-25,2024-02-29,Mary Johnson,Home Office,South,Furniture,Bookcases,1532.98,9,0.3,76.65
+CA-202402-1005,2024-02-28,2024-02-29,Michael Miller,Consumer,East,Technology,Accessories,1175.04,7,0.2,117.5
+CA-202402-1006,2024-02-17,2024-02-20,John Smith,Consumer,East,Technology,Machines,1241.74,1,0.2,124.17
+CA-202402-1007,2024-02-04,2024-02-09,James Taylor,Home Office,East,Office Supplies,Supplies,798.89,6,0.2,79.89
+CA-202402-1008,2024-02-14,2024-02-19,Mary Johnson,Home Office,Central,Technology,Copiers,467.83,3,0.2,46.78
+CA-202402-1009,2024-02-22,2024-02-26,Michael Miller,Consumer,East,Office Supplies,Binders,220.98,4,0.1,33.15
+CA-202402-1010,2024-02-19,2024-02-20,Barbara Moore,Consumer,South,Office Supplies,Art,1472.13,7,0.2,147.21
+CA-202402-1011,2024-02-27,2024-02-29,Patricia Wilson,Home Office,South,Office Supplies,Paper,1975.4,6,0.0,395.08
+CA-202402-1012,2024-02-01,2024-02-04,Barbara Moore,Corporate,East,Technology,Copiers,829.1,3,0.0,165.82
+CA-202402-1013,2024-02-25,2024-02-27,Barbara Moore,Home Office,South,Furniture,Tables,955.55,2,0.3,47.78
+CA-202402-1014,2024-02-02,2024-02-07,Michael Miller,Home Office,West,Office Supplies,Storage,531.3,2,0.2,53.13
+CA-202402-1015,2024-02-22,2024-02-23,Barbara Moore,Home Office,Central,Office Supplies,Paper,892.49,4,0.0,178.5
+CA-202402-1016,2024-02-16,2024-02-21,James Taylor,Corporate,East,Furniture,Bookcases,298.32,5,0.2,29.83
+CA-202402-1017,2024-02-22,2024-02-27,Barbara Moore,Home Office,Central,Technology,Machines,1330.37,8,0.0,266.07
+CA-202402-1018,2024-02-20,2024-02-23,Barbara Moore,Consumer,East,Technology,Copiers,1236.21,9,0.3,61.81
+CA-202402-1019,2024-02-23,2024-02-25,Linda Davis,Consumer,East,Office Supplies,Supplies,232.26,2,0.3,11.61
+CA-202402-1020,2024-02-14,2024-02-16,Patricia Wilson,Consumer,West,Technology,Copiers,1585.74,3,0.0,317.15
+CA-202402-1021,2024-02-27,2024-02-28,Michael Miller,Home Office,East,Office Supplies,Binders,1056.19,9,0.2,105.62
+CA-202402-1022,2024-02-05,2024-02-06,James Taylor,Consumer,South,Office Supplies,Supplies,1000.05,7,0.3,50.0
+CA-202402-1023,2024-02-15,2024-02-19,Robert Brown,Home Office,East,Office Supplies,Storage,378.22,1,0.1,56.73
+CA-202402-1024,2024-02-08,2024-02-12,Robert Brown,Corporate,South,Furniture,Bookcases,752.74,8,0.2,75.27
+CA-202402-1025,2024-02-27,2024-02-29,James Taylor,Corporate,South,Technology,Machines,473.13,9,0.0,94.63
+CA-202402-1026,2024-02-24,2024-02-26,Barbara Moore,Corporate,West,Office Supplies,Binders,770.0,5,0.3,38.5
+CA-202402-1027,2024-02-18,2024-02-19,John Smith,Consumer,South,Office Supplies,Binders,1737.45,2,0.0,347.49
+CA-202402-1028,2024-02-21,2024-02-26,Robert Brown,Consumer,South,Office Supplies,Storage,191.18,3,0.2,19.12
+CA-202402-1029,2024-02-24,2024-02-28,Robert Brown,Consumer,Central,Furniture,Bookcases,686.09,8,0.2,68.61
+CA-202402-1030,2024-02-04,2024-02-06,Michael Miller,Corporate,Central,Office Supplies,Art,1724.62,2,0.1,258.69
+CA-202402-1031,2024-02-01,2024-02-06,Barbara Moore,Corporate,East,Technology,Copiers,1766.47,1,0.2,176.65
+CA-202402-1032,2024-02-02,2024-02-03,John Smith,Consumer,West,Furniture,Chairs,862.17,2,0.2,86.22
+CA-202402-1033,2024-02-24,2024-02-29,Patricia Wilson,Consumer,East,Technology,Machines,1329.78,8,0.0,265.96
+CA-202402-1034,2024-02-22,2024-02-24,Robert Brown,Consumer,South,Technology,Copiers,1798.99,7,0.0,359.8
+CA-202402-1035,2024-02-08,2024-02-11,James Taylor,Consumer,West,Furniture,Chairs,1645.25,7,0.2,164.53
+CA-202402-1036,2024-02-23,2024-02-26,Mary Johnson,Consumer,South,Technology,Copiers,243.58,1,0.0,48.72
+CA-202402-1037,2024-02-13,2024-02-14,Mary Johnson,Consumer,Central,Office Supplies,Art,1298.12,4,0.0,259.62
+CA-202402-1038,2024-02-06,2024-02-11,Patricia Wilson,Home Office,West,Technology,Accessories,689.25,5,0.3,34.46
+CA-202402-1039,2024-02-06,2024-02-08,Barbara Moore,Home Office,Central,Technology,Machines,66.49,7,0.3,3.32
+CA-202402-1040,2024-02-14,2024-02-17,Linda Davis,Consumer,West,Furniture,Bookcases,1628.23,1,0.0,325.65
+CA-202402-1041,2024-02-05,2024-02-07,Robert Brown,Corporate,Central,Technology,Copiers,1674.63,2,0.3,83.73
+CA-202402-1042,2024-02-17,2024-02-18,Patricia Wilson,Home Office,Central,Furniture,Bookcases,280.97,2,0.2,28.1
+CA-202402-1043,2024-02-20,2024-02-22,Robert Brown,Consumer,West,Technology,Machines,770.15,9,0.3,38.51
+CA-202402-1044,2024-02-28,2024-03-01,Robert Brown,Corporate,South,Furniture,Furnishings,1103.44,10,0.0,220.69
+CA-202402-1045,2024-02-07,2024-02-08,Patricia Wilson,Home Office,South,Office Supplies,Binders,726.24,6,0.3,36.31
+CA-202402-1046,2024-02-10,2024-02-12,John Smith,Corporate,West,Technology,Copiers,1065.69,5,0.1,159.85
+CA-202402-1047,2024-02-13,2024-02-18,Barbara Moore,Home Office,West,Technology,Phones,1319.15,10,0.2,131.92
+CA-202402-1048,2024-02-18,2024-02-21,Linda Davis,Consumer,Central,Technology,Accessories,310.76,7,0.0,62.15
+CA-202402-1049,2024-02-12,2024-02-17,Mary Johnson,Home Office,South,Furniture,Bookcases,1378.7,4,0.1,206.81
+CA-202402-1050,2024-02-14,2024-02-19,James Taylor,Home Office,Central,Furniture,Chairs,88.75,6,0.2,8.88
+CA-202402-1051,2024-02-17,2024-02-22,Patricia Wilson,Corporate,West,Furniture,Chairs,966.24,8,0.3,48.31
+CA-202402-1052,2024-02-03,2024-02-06,John Smith,Consumer,West,Furniture,Tables,1136.11,4,0.2,113.61
+CA-202402-1053,2024-02-28,2024-03-01,John Smith,Consumer,East,Office Supplies,Art,1675.02,4,0.0,335.0
+CA-202402-1054,2024-02-01,2024-02-05,James Taylor,Corporate,West,Technology,Machines,709.38,9,0.2,70.94
+CA-202402-1055,2024-02-25,2024-02-27,John Smith,Consumer,South,Technology,Phones,669.03,9,0.3,33.45
+CA-202402-1056,2024-02-03,2024-02-08,Barbara Moore,Consumer,East,Office Supplies,Binders,112.41,9,0.3,5.62
+CA-202402-1057,2024-02-10,2024-02-13,Linda Davis,Consumer,Central,Furniture,Furnishings,32.28,1,0.2,3.23
+CA-202402-1058,2024-02-06,2024-02-11,Robert Brown,Home Office,South,Office Supplies,Art,51.42,4,0.2,5.14
+CA-202402-1059,2024-02-11,2024-02-13,John Smith,Home Office,South,Furniture,Chairs,1801.82,9,0.0,360.36
+CA-202402-1060,2024-02-09,2024-02-14,Linda Davis,Consumer,South,Office Supplies,Art,479.31,3,0.0,95.86
+CA-202402-1061,2024-02-05,2024-02-06,Mary Johnson,Home Office,East,Furniture,Bookcases,1645.19,8,0.3,82.26
+CA-202402-1062,2024-02-13,2024-02-17,Michael Miller,Consumer,South,Office Supplies,Binders,288.17,6,0.2,28.82
+CA-202402-1063,2024-02-07,2024-02-09,Linda Davis,Consumer,East,Technology,Machines,1823.19,6,0.0,364.64
+CA-202402-1064,2024-02-15,2024-02-16,Mary Johnson,Home Office,Central,Furniture,Tables,795.07,1,0.1,119.26
+CA-202402-1065,2024-02-05,2024-02-10,Mary Johnson,Corporate,West,Technology,Copiers,992.11,4,0.3,49.61
+CA-202402-1066,2024-02-18,2024-02-21,Robert Brown,Corporate,West,Office Supplies,Binders,1025.92,4,0.0,205.18
+CA-202402-1067,2024-02-20,2024-02-21,Barbara Moore,Home Office,West,Furniture,Tables,780.82,8,0.0,156.16
+CA-202402-1068,2024-02-18,2024-02-20,Michael Miller,Home Office,East,Office Supplies,Art,1902.46,3,0.1,285.37
+CA-202402-1069,2024-02-05,2024-02-07,Barbara Moore,Corporate,West,Furniture,Chairs,1350.57,8,0.0,270.11
+CA-202402-1070,2024-02-08,2024-02-13,James Taylor,Consumer,East,Furniture,Bookcases,170.27,9,0.2,17.03
+CA-202402-1071,2024-02-21,2024-02-24,Mary Johnson,Corporate,West,Furniture,Bookcases,463.73,10,0.0,92.75
+CA-202402-1072,2024-02-13,2024-02-14,John Smith,Corporate,Central,Technology,Copiers,1924.54,5,0.3,96.23
+CA-202402-1073,2024-02-10,2024-02-11,Patricia Wilson,Consumer,West,Technology,Accessories,620.65,5,0.2,62.06
+CA-202402-1074,2024-02-11,2024-02-16,Linda Davis,Corporate,West,Office Supplies,Art,1754.06,9,0.2,175.41
+CA-202402-1075,2024-02-07,2024-02-09,Mary Johnson,Corporate,West,Furniture,Chairs,998.01,4,0.2,99.8
+CA-202402-1076,2024-02-16,2024-02-18,Linda Davis,Corporate,West,Furniture,Chairs,1079.19,10,0.0,215.84
+CA-202402-1077,2024-02-09,2024-02-11,Patricia Wilson,Corporate,East,Furniture,Bookcases,1179.49,6,0.3,58.97
+CA-202402-1078,2024-02-28,2024-03-03,Patricia Wilson,Corporate,South,Office Supplies,Art,1383.05,3,0.3,69.15
+CA-202402-1079,2024-02-17,2024-02-22,Robert Brown,Consumer,Central,Furniture,Tables,1306.47,8,0.0,261.29
+CA-202402-1080,2024-02-03,2024-02-07,Linda Davis,Home Office,West,Technology,Phones,1616.24,1,0.1,242.44
+CA-202402-1081,2024-02-05,2024-02-06,John Smith,Corporate,East,Office Supplies,Supplies,417.13,6,0.1,62.57
+CA-202402-1082,2024-02-11,2024-02-12,Michael Miller,Consumer,West,Technology,Copiers,1461.04,3,0.3,73.05
+CA-202402-1083,2024-02-08,2024-02-12,John Smith,Home Office,Central,Furniture,Chairs,1962.43,8,0.2,196.24
+CA-202402-1084,2024-02-26,2024-03-01,James Taylor,Consumer,Central,Technology,Machines,1977.02,2,0.0,395.4
+CA-202402-1085,2024-02-11,2024-02-13,Linda Davis,Consumer,South,Technology,Phones,219.62,4,0.1,32.94
+CA-202402-1086,2024-02-18,2024-02-23,Michael Miller,Consumer,South,Office Supplies,Paper,1403.53,6,0.2,140.35
+CA-202402-1087,2024-02-02,2024-02-04,Mary Johnson,Consumer,West,Furniture,Bookcases,1985.73,5,0.2,198.57
+CA-202402-1088,2024-02-24,2024-02-29,Mary Johnson,Home Office,East,Technology,Copiers,84.41,1,0.3,4.22
+CA-202402-1089,2024-02-27,2024-03-01,Barbara Moore,Home Office,South,Office Supplies,Art,440.28,7,0.3,22.01
+CA-202402-1090,2024-02-07,2024-02-12,Mary Johnson,Home Office,East,Technology,Accessories,907.56,10,0.1,136.13
+CA-202402-1091,2024-02-04,2024-02-09,Robert Brown,Consumer,South,Technology,Copiers,469.98,3,0.1,70.5
+CA-202402-1092,2024-02-13,2024-02-16,Mary Johnson,Corporate,West,Technology,Machines,37.24,10,0.1,5.59
+CA-202402-1093,2024-02-24,2024-02-25,Robert Brown,Home Office,Central,Technology,Phones,1348.35,6,0.0,269.67
+CA-202402-1094,2024-02-24,2024-02-27,Barbara Moore,Home Office,South,Office Supplies,Binders,827.65,4,0.1,124.15
+CA-202402-1095,2024-02-04,2024-02-06,Linda Davis,Corporate,East,Technology,Accessories,941.67,9,0.0,188.33
+CA-202402-1096,2024-02-17,2024-02-20,Robert Brown,Corporate,East,Furniture,Chairs,1529.32,8,0.2,152.93
+CA-202402-1097,2024-02-10,2024-02-14,Barbara Moore,Consumer,South,Furniture,Tables,496.9,7,0.2,49.69
+CA-202402-1098,2024-02-18,2024-02-19,Robert Brown,Corporate,West,Office Supplies,Paper,1876.7,3,0.3,93.84
+CA-202402-1099,2024-02-10,2024-02-14,James Taylor,Corporate,West,Furniture,Furnishings,482.75,1,0.0,96.55
+CA-202402-1100,2024-02-15,2024-02-16,John Smith,Home Office,South,Office Supplies,Art,538.58,9,0.0,107.72
+CA-202402-1101,2024-02-06,2024-02-08,Barbara Moore,Home Office,Central,Furniture,Furnishings,569.43,10,0.0,113.89
+CA-202402-1102,2024-02-25,2024-02-26,Barbara Moore,Consumer,Central,Office Supplies,Paper,1055.92,8,0.1,158.39
+CA-202402-1103,2024-02-28,2024-02-29,Michael Miller,Corporate,West,Office Supplies,Supplies,1515.14,6,0.3,75.76
+CA-202402-1104,2024-02-22,2024-02-24,Patricia Wilson,Home Office,West,Technology,Accessories,1011.87,7,0.0,202.37
+CA-202402-1105,2024-02-17,2024-02-18,Barbara Moore,Consumer,Central,Office Supplies,Supplies,976.79,6,0.0,195.36
+CA-202402-1106,2024-02-03,2024-02-04,Robert Brown,Home Office,Central,Furniture,Bookcases,952.49,8,0.1,142.87
+CA-202402-1107,2024-02-11,2024-02-12,Barbara Moore,Consumer,South,Technology,Phones,1358.81,6,0.1,203.82
+CA-202402-1108,2024-02-24,2024-02-27,Patricia Wilson,Consumer,East,Furniture,Chairs,1173.0,2,0.0,234.6
+CA-202402-1109,2024-02-20,2024-02-25,Michael Miller,Home Office,West,Office Supplies,Paper,1240.33,4,0.3,62.02
+CA-202402-1110,2024-02-13,2024-02-16,Linda Davis,Home Office,Central,Furniture,Furnishings,1737.15,6,0.1,260.57
+CA-202402-1111,2024-02-28,2024-02-29,Barbara Moore,Consumer,South,Technology,Phones,1756.21,1,0.0,351.24
+CA-202402-1112,2024-02-18,2024-02-19,Barbara Moore,Consumer,East,Technology,Accessories,1774.51,9,0.3,88.73
+CA-202402-1113,2024-02-05,2024-02-09,Robert Brown,Corporate,West,Furniture,Furnishings,396.97,2,0.1,59.55
+CA-202402-1114,2024-02-26,2024-02-28,John Smith,Home Office,East,Office Supplies,Storage,309.52,3,0.0,61.9
+CA-202402-1115,2024-02-11,2024-02-15,James Taylor,Corporate,West,Furniture,Tables,59.19,5,0.1,8.88
+CA-202402-1116,2024-02-20,2024-02-21,Mary Johnson,Home Office,South,Furniture,Chairs,115.16,8,0.3,5.76
+CA-202402-1117,2024-02-05,2024-02-09,Patricia Wilson,Consumer,South,Office Supplies,Supplies,966.36,7,0.3,48.32
+CA-202402-1118,2024-02-04,2024-02-06,Mary Johnson,Corporate,Central,Technology,Machines,1447.94,4,0.3,72.4
+CA-202402-1119,2024-02-22,2024-02-26,John Smith,Corporate,South,Technology,Machines,1485.22,6,0.3,74.26
+CA-202402-1120,2024-02-15,2024-02-18,James Taylor,Consumer,East,Technology,Copiers,1774.76,10,0.2,177.48
+CA-202402-1121,2024-02-20,2024-02-23,Patricia Wilson,Corporate,East,Furniture,Tables,1148.48,8,0.2,114.85
+CA-202402-1122,2024-02-19,2024-02-22,Mary Johnson,Home Office,South,Office Supplies,Supplies,1365.25,3,0.1,204.79
+CA-202402-1123,2024-02-09,2024-02-10,Robert Brown,Consumer,Central,Technology,Copiers,1574.35,7,0.2,157.44
+CA-202402-1124,2024-02-26,2024-02-27,James Taylor,Corporate,South,Furniture,Tables,1191.63,1,0.0,238.33
+CA-202402-1125,2024-02-24,2024-02-29,Patricia Wilson,Consumer,South,Furniture,Furnishings,832.06,6,0.1,124.81
+CA-202402-1126,2024-02-16,2024-02-21,Barbara Moore,Consumer,South,Office Supplies,Storage,1979.44,8,0.2,197.94
+CA-202402-1127,2024-02-25,2024-02-26,John Smith,Corporate,West,Technology,Phones,375.1,2,0.1,56.27
+CA-202402-1128,2024-02-24,2024-02-26,Linda Davis,Consumer,South,Office Supplies,Art,1925.97,4,0.2,192.6
+CA-202402-1129,2024-02-06,2024-02-07,John Smith,Corporate,South,Furniture,Bookcases,1876.28,3,0.0,375.26
+CA-202402-1130,2024-02-02,2024-02-07,Michael Miller,Corporate,East,Office Supplies,Binders,1136.5,7,0.1,170.48
+CA-202402-1131,2024-02-20,2024-02-23,John Smith,Corporate,East,Office Supplies,Binders,1009.2,2,0.3,50.46
+CA-202402-1132,2024-02-15,2024-02-16,Patricia Wilson,Consumer,Central,Technology,Machines,1725.26,7,0.0,345.05
+CA-202402-1133,2024-02-18,2024-02-19,John Smith,Home Office,East,Furniture,Chairs,1148.25,4,0.3,57.41
+CA-202402-1134,2024-02-17,2024-02-19,Linda Davis,Corporate,East,Furniture,Furnishings,567.36,5,0.0,113.47
+CA-202402-1135,2024-02-28,2024-03-02,Barbara Moore,Corporate,Central,Office Supplies,Storage,1282.32,7,0.1,192.35
+CA-202402-1136,2024-02-09,2024-02-11,Linda Davis,Corporate,Central,Furniture,Tables,825.49,3,0.0,165.1
+CA-202402-1137,2024-02-06,2024-02-07,Linda Davis,Home Office,West,Technology,Phones,1811.74,5,0.3,90.59
+CA-202402-1138,2024-02-02,2024-02-04,James Taylor,Corporate,South,Technology,Machines,432.56,4,0.3,21.63
+CA-202402-1139,2024-02-24,2024-02-29,Michael Miller,Home Office,East,Office Supplies,Binders,1753.24,2,0.0,350.65
+CA-202402-1140,2024-02-17,2024-02-21,James Taylor,Consumer,West,Furniture,Tables,594.27,6,0.2,59.43
+CA-202402-1141,2024-02-21,2024-02-25,John Smith,Corporate,West,Furniture,Chairs,871.8,4,0.0,174.36
+CA-202402-1142,2024-02-06,2024-02-10,John Smith,Corporate,West,Office Supplies,Storage,315.28,4,0.2,31.53
+CA-202402-1143,2024-02-22,2024-02-25,Barbara Moore,Consumer,East,Office Supplies,Storage,1101.58,7,0.0,220.32
+CA-202402-1144,2024-02-26,2024-03-02,Michael Miller,Corporate,Central,Technology,Copiers,606.13,10,0.1,90.92
+CA-202402-1145,2024-02-26,2024-02-28,Patricia Wilson,Home Office,South,Furniture,Bookcases,20.63,1,0.1,3.09
+CA-202402-1146,2024-02-07,2024-02-12,James Taylor,Corporate,West,Office Supplies,Art,91.57,5,0.1,13.74
+CA-202402-1147,2024-02-05,2024-02-09,Patricia Wilson,Corporate,East,Technology,Accessories,516.71,2,0.3,25.84
+CA-202402-1148,2024-02-09,2024-02-13,Barbara Moore,Consumer,East,Office Supplies,Art,234.07,7,0.1,35.11
+CA-202402-1149,2024-02-05,2024-02-08,James Taylor,Consumer,Central,Furniture,Furnishings,1587.71,2,0.0,317.54
+CA-202402-1150,2024-02-20,2024-02-25,John Smith,Consumer,Central,Technology,Copiers,1266.02,10,0.0,253.2
+CA-202402-1151,2024-02-22,2024-02-25,John Smith,Consumer,West,Technology,Phones,697.08,4,0.2,69.71
+CA-202402-1152,2024-02-25,2024-03-01,Robert Brown,Home Office,South,Office Supplies,Storage,230.15,3,0.0,46.03
+CA-202402-1153,2024-02-24,2024-02-28,Barbara Moore,Corporate,West,Office Supplies,Binders,820.6,9,0.2,82.06
+CA-202402-1154,2024-02-08,2024-02-12,James Taylor,Corporate,East,Technology,Machines,1335.37,8,0.2,133.54
+CA-202402-1155,2024-02-16,2024-02-20,Patricia Wilson,Home Office,South,Technology,Machines,199.68,8,0.1,29.95
+CA-202402-1156,2024-02-22,2024-02-23,Michael Miller,Corporate,South,Furniture,Tables,1964.36,6,0.3,98.22
+CA-202402-1157,2024-02-10,2024-02-15,Barbara Moore,Consumer,Central,Technology,Machines,499.46,4,0.2,49.95
+CA-202402-1158,2024-02-09,2024-02-14,Barbara Moore,Home Office,Central,Office Supplies,Supplies,450.88,7,0.3,22.54
+CA-202402-1159,2024-02-20,2024-02-25,Michael Miller,Consumer,South,Technology,Machines,215.33,3,0.0,43.07
+CA-202402-1160,2024-02-24,2024-02-26,John Smith,Home Office,South,Office Supplies,Storage,1058.32,8,0.1,158.75
+CA-202402-1161,2024-02-04,2024-02-06,Linda Davis,Consumer,Central,Office Supplies,Binders,568.5,1,0.3,28.43
+CA-202402-1162,2024-02-06,2024-02-09,Mary Johnson,Home Office,South,Office Supplies,Art,895.92,9,0.1,134.39
+CA-202402-1163,2024-02-27,2024-03-03,Mary Johnson,Corporate,East,Furniture,Chairs,1481.3,6,0.2,148.13
+CA-202402-1164,2024-02-28,2024-02-29,John Smith,Consumer,South,Furniture,Bookcases,455.49,8,0.3,22.77
+CA-202402-1165,2024-02-08,2024-02-11,Barbara Moore,Corporate,South,Office Supplies,Art,1546.98,5,0.3,77.35
+CA-202402-1166,2024-02-16,2024-02-18,James Taylor,Corporate,East,Technology,Phones,507.8,9,0.1,76.17
+CA-202402-1167,2024-02-04,2024-02-06,John Smith,Home Office,West,Office Supplies,Storage,697.55,3,0.2,69.75
+CA-202402-1168,2024-02-22,2024-02-25,James Taylor,Corporate,East,Office Supplies,Art,1802.81,3,0.2,180.28
+CA-202402-1169,2024-02-10,2024-02-15,James Taylor,Corporate,East,Office Supplies,Supplies,42.18,6,0.3,2.11
+CA-202402-1170,2024-02-22,2024-02-26,James Taylor,Corporate,South,Furniture,Furnishings,1950.34,4,0.3,97.52
+CA-202402-1171,2024-02-05,2024-02-07,James Taylor,Home Office,South,Office Supplies,Storage,1463.08,2,0.2,146.31
+CA-202402-1172,2024-02-13,2024-02-15,Patricia Wilson,Home Office,South,Furniture,Bookcases,313.57,1,0.3,15.68
+CA-202402-1173,2024-02-18,2024-02-19,Linda Davis,Consumer,West,Technology,Machines,1301.53,2,0.2,130.15
+CA-202402-1174,2024-02-28,2024-03-01,Patricia Wilson,Corporate,Central,Furniture,Furnishings,739.21,4,0.2,73.92
+CA-202402-1175,2024-02-01,2024-02-02,Barbara Moore,Corporate,East,Furniture,Bookcases,1896.02,8,0.3,94.8
+CA-202402-1176,2024-02-06,2024-02-10,Barbara Moore,Corporate,South,Furniture,Bookcases,1373.19,4,0.2,137.32
+CA-202402-1177,2024-02-18,2024-02-23,Barbara Moore,Home Office,Central,Technology,Accessories,1450.25,3,0.3,72.51
+CA-202402-1178,2024-02-23,2024-02-28,Michael Miller,Corporate,West,Furniture,Furnishings,981.27,8,0.0,196.25
+CA-202402-1179,2024-02-28,2024-03-04,Robert Brown,Corporate,Central,Furniture,Furnishings,400.33,6,0.2,40.03
+CA-202402-1180,2024-02-11,2024-02-16,Robert Brown,Consumer,Central,Technology,Copiers,1932.25,9,0.0,386.45
+CA-202402-1181,2024-02-20,2024-02-25,Linda Davis,Consumer,South,Technology,Copiers,453.02,3,0.1,67.95
+CA-202402-1182,2024-02-14,2024-02-19,Linda Davis,Home Office,West,Office Supplies,Art,1913.51,1,0.1,287.03
+CA-202402-1183,2024-02-25,2024-02-26,John Smith,Consumer,South,Technology,Accessories,286.08,10,0.2,28.61
+CA-202402-1184,2024-02-15,2024-02-19,James Taylor,Consumer,East,Furniture,Tables,210.26,1,0.3,10.51
+CA-202402-1185,2024-02-04,2024-02-09,Linda Davis,Corporate,Central,Furniture,Furnishings,1879.89,5,0.1,281.98
+CA-202402-1186,2024-02-11,2024-02-12,John Smith,Consumer,South,Office Supplies,Supplies,1468.77,7,0.3,73.44
+CA-202402-1187,2024-02-16,2024-02-18,James Taylor,Corporate,Central,Office Supplies,Binders,1945.34,10,0.3,97.27
+CA-202402-1188,2024-02-26,2024-03-02,James Taylor,Consumer,West,Office Supplies,Supplies,922.92,5,0.0,184.58
+CA-202402-1189,2024-02-27,2024-03-01,Linda Davis,Corporate,South,Furniture,Furnishings,1318.06,7,0.0,263.61
+CA-202402-1190,2024-02-06,2024-02-09,John Smith,Corporate,Central,Technology,Machines,656.58,5,0.3,32.83
+CA-202402-1191,2024-02-07,2024-02-08,James Taylor,Consumer,South,Furniture,Furnishings,1709.81,5,0.0,341.96
+CA-202402-1192,2024-02-26,2024-02-29,Robert Brown,Corporate,Central,Office Supplies,Paper,1998.62,6,0.3,99.93
+CA-202402-1193,2024-02-27,2024-03-02,Linda Davis,Corporate,West,Furniture,Bookcases,607.37,5,0.2,60.74
+CA-202402-1194,2024-02-24,2024-02-25,Linda Davis,Consumer,South,Technology,Phones,256.08,8,0.1,38.41
+CA-202402-1195,2024-02-20,2024-02-25,Mary Johnson,Consumer,South,Furniture,Chairs,1867.68,6,0.2,186.77
+CA-202402-1196,2024-02-15,2024-02-20,James Taylor,Consumer,West,Office Supplies,Paper,1388.56,10,0.2,138.86
+CA-202402-1197,2024-02-14,2024-02-18,Barbara Moore,Consumer,Central,Technology,Copiers,742.28,1,0.2,74.23
+CA-202402-1198,2024-02-14,2024-02-19,Patricia Wilson,Consumer,West,Office Supplies,Art,552.69,1,0.0,110.54
+CA-202402-1199,2024-02-21,2024-02-23,Linda Davis,Consumer,East,Office Supplies,Binders,1349.35,3,0.2,134.94
